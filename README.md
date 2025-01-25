@@ -1,7 +1,7 @@
 # Saphira - Asistente Virtual
 ![CyberPassGen](Saphira_Logo.gif)
 
-**Saphira** es un asistente virtual diseñado para ofrecer lujo, exclusividad y una experiencia interactiva sofisticad>
+**Saphira** es un asistente virtual diseñado para ofrecer Calidad de lujo, exclusividad y una experiencia interactiva sofisticada através de comandos de voz, inteligencia artificial y una interfaz elegante, Saphira está lista para ayudar en diversas tareas, desde la organización personal hasta la gestión de dispositivos inteligentes.
 
 ## Características
 
