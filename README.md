@@ -70,3 +70,9 @@
 ---
 
 **Saphira** está aquí para llevar tu experiencia digital a un nivel de sofisticación y Calidad de lujo nunca antes visto. ¡Bienvenido a un nuevo futuro con un asistente virtual que entiende tus necesidades y supera tus expectativas!
+
+# Colaborador
+
+A continuación se muestra el colaborador de este proyecto:
+
+- [IngEliab](https://github.com/Saphira-estudios) - CEO Y CTO principal
