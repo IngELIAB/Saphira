@@ -70,18 +70,21 @@
 ---
 
 **Saphira** está aquí para llevar tu experiencia digital a un nivel de sofisticación y Calidad de lujo nunca antes visto. ¡Bienvenido a un nuevo futuro con un asistente virtual que entiende tus necesidades y supera tus expectativas!
+---
+# Saphira Estudio's core team
 
-# # Colaboradores De Saphira Estudio's 🚀
+A continuación se muestra la organización del proyecto:
 
-A continuación se muestra el colaborador de este proyecto:
+![Saphira Estudio's Avatar](https://github.com/saphira-estudios.png)  
+**Nombre de la organización:** Saphira Estudio's  
+**GitHub:** [Saphira Estudio's](https://github.com/saphira-estudios)  
+**Descripción:** Equipo de desarrollo detrás de la asistente virtual Saphira.
+
+# Colaborador
+
+A continuación se muestran los colaboradoes de este proyecto:
 
 ![IngELIAB Avatar](https://github.com/IngELIAB.png)  
 **Nombre:** Eliab Aleman  
 **GitHub:** [IngELIAB](https://github.com/IngELIAB)  
 **Rol:** CEO principal
-
-# Equipo
-
-El equipo del proyecto está representado en el GitHub de la organización:
-
-[Saphira Estudio's](https://github.com/saphira-estudios)
