@@ -75,7 +75,7 @@
 
 A continuación se muestra la organización del proyecto:
 
-![Saphira Estudio's Avatar](https://github.com/saphira-estudios.png)  
+![Saphira Estudio's Avatar](https://github.com/SaphiraEstudios.png)  
 **Nombre de la organización:** Saphira Estudio's  
 **GitHub:** [Saphira Estudio's](https://github.com/saphira-estudios)  
 **Descripción:** Equipo de desarrollo detrás de la asistente virtual Saphira.
