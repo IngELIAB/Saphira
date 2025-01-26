@@ -75,4 +75,11 @@
 
 A continuación se muestra el colaborador de este proyecto:
 
-- [IngEliab](https://github.com/Saphira-estudios) - CEO Y CTO principal
+- # Colaborador
+
+A continuación se muestra el colaborador de este proyecto:
+
+![IngEliab's Avatar](https://github.com/Saphira-estudios.png)  
+**Nombre:** Eliab Aleman 
+**GitHub:** [IngEliab](https://github.com/Saphira-estudios)  
+**Rol:** CEO principal
